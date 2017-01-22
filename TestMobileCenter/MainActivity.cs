@@ -14,13 +14,21 @@ namespace TestMobileCenter
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-            int y = 1;
-            int x = 5;
+            
             MobileCenter.Start("5cd5e970-8a56-4c96-87f0-48a48c4483bd",
                     typeof(Analytics), typeof(Crashes));
-            Console.WriteLine(x / (y - 1));
+           
             // Set our view from the "main" layout resource
-            // SetContentView (Resource.Layout.Main);
+            SetContentView (Resource.Layout.Main);
+            var button = this.FindViewById<Button>(Resource.Id.button1);
+            button.Click += Button_Click;
+        }
+
+        private void Button_Click(object sender, EventArgs e)
+        {
+            int y = 1;
+            int x = 5;
+            Console.WriteLine(x / (y - 1));
         }
     }
 }
