@@ -52,7 +52,6 @@ C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\bin\Debug\Microsoft
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\bin\Debug\Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\bin\Debug\Microsoft.Azure.Mobile.dll
-C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\obj\Debug\TestMobileCenter.csprojResolveAssemblyReference.cache
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\obj\Debug\TestMobileCenter.dll
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\obj\Debug\TestMobileCenter.pdb
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\obj\Debug\android\bin\TestMobileCenter.TestMobileCenter.apk
@@ -61,6 +60,7 @@ C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\obj\Debug\res\value
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\obj\Debug\res\drawable\icon.png
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\obj\Debug\R.cs.flag
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\obj\Debug\uploadflags.txt
+C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\bin\Debug\TestMobileCenter.dll.mdb
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\bin\Debug\Java.Interop.dll.mdb
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\bin\Debug\Mono.Android.dll.mdb
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\bin\Debug\mscorlib.dll.mdb
@@ -72,7 +72,6 @@ C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\bin\Debug\System.Ru
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\bin\Debug\System.ServiceModel.Internals.dll.mdb
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\bin\Debug\System.Xml.dll.mdb
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\bin\Debug\System.Xml.Linq.dll.mdb
-C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\bin\Debug\TestMobileCenter.dll.mdb
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\obj\Debug\android\assets\Java.Interop.dll.mdb
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\obj\Debug\android\assets\Mono.Android.dll.mdb
 C:\Users\user\Source\Repos\TestMobileCenter\TestMobileCenter\obj\Debug\android\assets\mscorlib.dll.mdb

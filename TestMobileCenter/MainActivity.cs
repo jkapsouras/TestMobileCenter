@@ -26,9 +26,9 @@ namespace TestMobileCenter
 
         private void Button_Click(object sender, EventArgs e)
         {
-            int y = 1;
-            int x = 5;
-            Console.WriteLine(x / (y - 1));
+            float y = 0;
+            float x = 5;
+            Console.WriteLine($"result = {x/y}");
         }
     }
 }

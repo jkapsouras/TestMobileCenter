@@ -1,0 +1,17 @@
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\UITestApp.dll
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\UITestApp.pdb
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\nunit.framework.dll
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\TestMobileCenter.dll
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\Xamarin.UITest.dll
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\Microsoft.Azure.Mobile.Analytics.dll
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\Microsoft.Azure.Mobile.Crashes.dll
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\Microsoft.Azure.Mobile.dll
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\Microsoft.Azure.Mobile.Android.Bindings.dll
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\TestMobileCenter.pdb
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\nunit.framework.xml
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\bin\Release\Xamarin.UITest.xml
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\obj\Release\UITestApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\obj\Release\UITestApp.dll
+C:\Users\user\Source\Repos\TestMobileCenter\UITestApp\obj\Release\UITestApp.pdb
