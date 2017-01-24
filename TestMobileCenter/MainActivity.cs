@@ -17,9 +17,9 @@ namespace TestMobileCenter
             
             MobileCenter.Start("5cd5e970-8a56-4c96-87f0-48a48c4483bd",
                     typeof(Analytics), typeof(Crashes));
-           
+
             // Set our view from the "main" layout resource
-            SetContentView (Resource.Layout.Main);
+            SetContentView(Resource.Layout.Main);
             var button = FindViewById<Button>(Resource.Id.button1);
             button.Click += Button_Click;
         }
