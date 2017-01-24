@@ -20,7 +20,7 @@ namespace TestMobileCenter
            
             // Set our view from the "main" layout resource
             SetContentView (Resource.Layout.Main);
-            var button = this.FindViewById<Button>(Resource.Id.button1);
+            var button = FindViewById<Button>(Resource.Id.button1);
             button.Click += Button_Click;
         }
 
